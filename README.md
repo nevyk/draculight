@@ -1,5 +1,9 @@
 # Draculight
 
+## Preview
+
+![](docs/Draculight.png)
+
 ## Color Palette
 
 | Color        | Hex       | RGB                  | HSL                   |
@@ -18,3 +22,4 @@
 | Red          | `#FF1313` | `rgb(255, 19, 19)`   | `hsl(360, 100%, 54%)` |
 | Yellow       | `#D4B701` | `rgb(212, 183, 1)`   | `hsl(52, 99%, 42%)`   |
 | Blue         | `#0078FF` | `rgb(0, 120, 255)`   | `hsl(212, 100%, 50%)` |
+| Purple       | `#7F65D4` | `rgb(127, 101, 212)` | `hsl(254, 56%, 61%)`  |
