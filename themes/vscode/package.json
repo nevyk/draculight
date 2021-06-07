@@ -4,6 +4,11 @@
   "description": "Light theme based on Dracula",
   "publisher": "Nevyk",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nevyk/draculight"
+  },
+  "homepage": "https://github.com/nevyk/draculight/tree/main/themes/vscode",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.56.0"
