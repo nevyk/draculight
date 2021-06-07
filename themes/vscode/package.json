@@ -14,7 +14,7 @@
       {
         "label": "Draculight",
         "uiTheme": "vs",
-        "path": "./Draculight-color-theme.json"
+        "path": "./themes/Draculight-color-theme.json"
       }
     ]
   }
