@@ -2,7 +2,7 @@
   "name": "draculight",
   "displayName": "Draculight",
   "description": "Light theme based on Dracula",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.56.0"
   },
