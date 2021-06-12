@@ -9,7 +9,7 @@
     "url": "https://github.com/nevyk/draculight"
   },
   "homepage": "https://github.com/nevyk/draculight/tree/main/themes/vscode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.56.0"
   },
