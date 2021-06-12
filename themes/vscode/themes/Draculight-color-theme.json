@@ -76,6 +76,8 @@
     "statusBarItem.remoteForeground": "#F7F7F6",
     "statusBarItem.errorBackground": "#FF1313",
     "statusBarItem.errorForeground": "#F7F7F6",
+    "statusBar.noFolderForeground": "#21253F",
+    "statusBar.noFolderBackground": "#F7F7F6",
 
     "button.background": "#7F65D4",
     "button.foreground": "#F7F7F6",
@@ -109,7 +111,7 @@
     "list.focusForeground": "#21253F",
     "list.focusBackground": "#e5e5e5",
     "list.highlightForeground": "#7f65d4",
-    "list.hoverBackground": "#7f65d471",
+    "list.hoverBackground": "#E5E5E5",
     "list.hoverForeground": "#21253F",
     "list.inactiveSelectionBackground": "#7f65d470",
     "list.inactiveSelectionForeground": "#21253F",
@@ -218,7 +220,7 @@
       "name": "Types",
       "scope": ["storage.type", "support.type"],
       "settings": {
-        "foreground": "#da288c"
+        "foreground": "#7F65D4"
       }
     },
     {
@@ -240,7 +242,7 @@
       "scope": ["entity.name.function", "support.function"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#00ac2b"
+        "foreground": "#0078FF"
       }
     },
     {
@@ -280,7 +282,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#F78000"
+        "foreground": "#00ac2b"
       }
     },
     {
@@ -350,7 +352,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#00A429"
+        "foreground": "#7F65D4"
       }
     },
     {
