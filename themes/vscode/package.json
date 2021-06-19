@@ -6,10 +6,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nevyk/draculight"
+    "url": "https://github.com/nevyk/draculight.git"
   },
-  "homepage": "https://github.com/nevyk/draculight/tree/main/themes/vscode",
-  "version": "1.0.2",
+  "homepage": "https://github.com/nevyk/draculight/tree/main/themes/vscode#readme",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.56.0"
   },

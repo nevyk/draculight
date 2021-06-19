@@ -9,6 +9,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - n/a
 
+## [1.0.4]
+
+### Changed
+
+- Updated homepage and repository URLs
+
+## [1.0.3]
+
+### Changed
+
+- Updated homepage and repository URLs
+
 ## [1.0.2]
 
 ### Added
